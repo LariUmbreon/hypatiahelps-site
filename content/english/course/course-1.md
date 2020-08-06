@@ -16,8 +16,6 @@ teacher: "Clark Malik"
 duration : "06 Month"
 # weekly
 weekly : "03 hours"
-# course fee
-fee : "From: $699"
 # apply url
 apply_url : "#"
 # type
