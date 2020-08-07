@@ -120,7 +120,7 @@ URL = "research"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo-nosub-white.svg"
 # Meta data
 description = "Hypatia Helps, Providing skills and mentorships for trans individuals to succeed"
 author = "Hypatia Helps"
@@ -194,11 +194,11 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 2
+#home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+#copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
