@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://hypatiahelps.org/"
 title = "Hypatia Helps - Providing skills and mentorships for trans individuals to succeed"
 theme = "educenter-hugo"
 # post pagination
