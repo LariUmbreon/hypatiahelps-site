@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Join us!"
-      content : "Want to recieve benfits? Consider joining Hypatia Helps as a member. Benfits include access to a peer-mentor who can relate to what you are dealing with, life skills mentorship, and the Emergency Cash Relief Fund."
+      content : "Want to receive benefits? Consider joining Hypatia Helps as a member. Benefits include access to a peer-mentor who can relate to what you are dealing with, life skills mentorship, and the Emergency Cash Relief Fund."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,7 +15,7 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Volunteer wth us!"
+    - title : "Volunteer with us!"
       content : "Are you trans* and want to give back to your community? Consider volunteering as a Hypatia Mentor! Other volunteer roles are available."
       animation_in : "left"
       animation_out : "right"
@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Learn more about us!"
-      content : "We are a drive group of volunteers, mentors, and community members who wish to raise up the Trans community through peer support and mutal aid."
+      content : "We are a drive group of volunteers, mentors, and community members who wish to raise up the Trans community through peer support and mutual aid."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -45,33 +45,30 @@ banner_feature:
     # feature item loop
     - name : "Our Approach"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We believe strongly in peer lead mentorship to drive success in the trans community. Run for and by our community, we are there for each other."
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Lifeskills"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Every trans person deserves to have access to lifeskills. While many may take these skills for granted our disenfranchised community is often denied access to these hard and soft skills"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Mentorship"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Engage with a peer mentor who actually knows what you are going through. From help with your resume, to general life advise. We believe strongly in peer mentorship!"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Join Us!"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "As a volunteer or member we invite you to join Hypatia Helps as we raise each other up!"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Hypatia Helps"
   image : "images/heart.png"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Born out of our experience running Hypatia Software Origination we seek to bring the experience of peer mentorship to every trans person regardless of their interest in technology. We have an intense focus on the individual experience!"
   button:
     enable : true
     label : "Learn more"

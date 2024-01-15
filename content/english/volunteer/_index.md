@@ -9,15 +9,12 @@ image: "images/volunteer.png"
 description : "Become a peer-mentor or volunteer today!"
 ---
 
-## ABOUT OUR JOURNY
+## Join as a Volunteer
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Would you like to give back to the trans* community and become a peer mentor? Mentors need to to have the following qualifications:
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+* Be a member of the transgender community (ie: you are trans)
+* Be willing to donate between 1 and 2 hours a week for *Mentorship*
+* Want to help raise up our peers
+
+Contact us today at **hypatiahelps DOT org** for more information! Be sure to include "volunteer" in the subject.
