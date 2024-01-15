@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Join us!"
-      content : "ipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Want to recieve benfits? Consider joining Hypatia Helps as a member. Benfits include access to a peer-mentor who can relate to what you are dealing with, life skills mentorship, and the Emergency Cash Relief Fund."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Volunteer wth us!"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Are you trans* and want to give back to your community? Consider volunteering as a Hypatia Mentor! Other volunteer roles are available."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Learn more about us!"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "We are a drive group of volunteers, mentors, and community members who wish to raise up the Trans community through peer support and mutal aid."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "About Educenter"
-  image : "images/about/about-us.jpg"
+  image : "images/heart.png"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
 
@@ -80,24 +80,24 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Signup to Join our Lifeskills Webinar"
+  title : "Life Skills Webinar"
   button:
     enable : true
     label : "join now"
-    link : "contact"
+    link : "join"
 
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
@@ -111,7 +111,7 @@ success_story:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
@@ -142,6 +142,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.
