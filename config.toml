@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://hypatiahelps.org"
+baseURL = "/"
 title = "Hypatia Helps - Providing skills and mentorships for trans individuals to succeed"
 theme = "educenter-hugo"
 # post pagination
@@ -167,7 +167,7 @@ enable = false
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
+title ="facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
