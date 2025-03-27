@@ -23,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Volunteer"
-        link : "contact"
+        link : "https://hypatiasoftware.org/index.php/civicrm/profile/create/?gid=14&reset=1"
 
     # slider item loop
     - title : "Learn more about us!"

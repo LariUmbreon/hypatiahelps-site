@@ -17,4 +17,10 @@ Would you like to give back to the trans* community and become a peer mentor? Me
 * Be willing to donate between 1 and 2 hours a week for *Mentorship*
 * Want to help raise up our peers
 
-Contact us today at **hypatiahelps DOT org** for more information! Be sure to include "volunteer" in the subject.
+Intrested? Fill out our volunteer signup sheet today!
+
+<div class="row">
+    <div class="col-md-8">
+        <a href="https://hypatiasoftware.org/index.php/civicrm/profile/create/?gid=14&reset=1" class="btn btn-primary">Volunteer Signup</a>
+    </div>
+</div>

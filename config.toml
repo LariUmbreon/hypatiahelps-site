@@ -13,7 +13,8 @@ disableLanguages = [] # desable language from here
 
 
 ############################# Plugins ##############################
-
+[markup.goldmark.renderer]
+  unsafe = true
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
