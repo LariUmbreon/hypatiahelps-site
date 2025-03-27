@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Learn more about us!"
-      content : "We are a drive group of volunteers, mentors, and community members who wish to raise up the Trans community through peer support and mutual aid."
+      content : "We are a diverse group of volunteers, mentors, and community members who wish to raise up the Trans community through peer support and mutual aid."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
