@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Learn"
-        link : "contact"
+        link : "about"
 
 
 ############################### Banner feature ###############################
