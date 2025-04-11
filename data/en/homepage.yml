@@ -45,7 +45,7 @@ banner_feature:
     # feature item loop
     - name : "Our Approach"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "We believe strongly in peer lead mentorship to drive success in the trans community. Run for and by our community, we are there for each other."
+      content : "We believe strongly in peer led mentorship to drive success in the trans community. Run for and by our community, we are there for each other."
 
     # feature item loop
     - name : "Lifeskills"
@@ -68,7 +68,7 @@ about:
   enable : true
   title : "About Hypatia Helps"
   image : "images/heart.png"
-  content : "Born out of our experience running Hypatia Software Origination we seek to bring the experience of peer mentorship to every trans person regardless of their interest in technology. We have an intense focus on the individual experience!"
+  content : "Born out of our experience running Hypatia Software Origination, we seek to bring the experience of peer mentorship to every trans person regardless of their interest in technology. We have an intense focus on the individual experience!"
   button:
     enable : true
     label : "Learn more"
