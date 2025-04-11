@@ -11,9 +11,9 @@ description : "We are a group of dedicated mentors, volunteers and community mem
 
 ## Who We Are
 
-In 2016 we started as a group named Hypatia Software Organization. Our goal back then was simple, provide peer mentorship to those
-in the trans community who have been disenfranchised. Since then we have learned much about providing peer support and direct
-mutual aid in the for of Emergency Cash Relief.
+In 2016, we started as a group named Hypatia Software Organization. Our goal back then was simple: Provide peer mentorship to those
+in the trans community who have been disenfranchised. Since then, we have learned much about providing peer support and direct
+mutual aid in the form of Emergency Cash Relief.
 
 Hypatia Helps is the next iteration of the original mission with less focus on technology, and a bigger focus on each other.
 We now seek to expand our mission to help provide peer-mentorship to trans people in need.
